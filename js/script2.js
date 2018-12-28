@@ -3,7 +3,7 @@ $(function() {
   // Peer object
   const peer = new Peer({
     // key:   window.__SKYWAY_KEY__,
-    key:   "Your API Key",
+    key:   "b7e86184-bc73-4467-9818-c756bc54066d",
     debug: 3,
   });
 
